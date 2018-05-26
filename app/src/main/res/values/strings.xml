@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="sg_name">身高(CM)</string>
+    <string name="tz_name">体重(KG)</string>
+    <string name="BMI_name">BMI</string>
+
+</resources>
